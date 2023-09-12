@@ -18,3 +18,17 @@
     flex: 1 1 0px;
     flex-direction: column;
 }
+
+.updateRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.date {
+    display: flex;
+    flex-direction: column;
+    color: orangered;
+    font-size: 0.6rem;
+    justify-content: center;
+}

@@ -45,7 +45,7 @@ export default function Table() {
       },
       {
         alert: 'Done!',
-        status: 'TAS-scorchedshadow>',
+        status: 'TAS-scorchedshadow',
         updates: []
       }
     ]
